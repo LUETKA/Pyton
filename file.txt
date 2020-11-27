@@ -1,0 +1,6 @@
+
+>>> print("C:\Users\mike\py101book\data\test.txt")
+C:\Users\mike\py101book\data    est.txt
+ 
+>>> print(r"C:\Users\mike\py101book\data\test.txt")
+C:\Users\mike\py101book\data\test.txt
